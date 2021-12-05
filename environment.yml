@@ -22,3 +22,6 @@ dependencies:
   - notebook==6.4.4
   - ipython==7.27.0
   - jupytext==1.12.0
+
+  # Widgets
+  - ipywidgets==7.6.5
