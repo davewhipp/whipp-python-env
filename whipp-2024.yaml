@@ -1,0 +1,21 @@
+name: whipp-2024
+
+channels:
+  - conda-forge
+
+dependencies:
+  - astropy
+  - black  
+  #- gooey
+  - graphviz
+  - icecream
+  - ipython
+  - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.12.1
+  - scikit-learn
+  - scipy
+  - seaborn
